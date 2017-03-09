@@ -1,4 +1,4 @@
-### seL4: Formal Verification of an Operating-System Kernel
+#### seL4: Formal Verification of an Operating-System Kernel
 Klein et al.  
 NICTA, UNSW, Open Kernel Labs, ANU  
 SOSP 2009  
