@@ -1,4 +1,4 @@
-**[CS260r](cs260r)**
-Verified Systems
+**[CS260r](cs260r)**  
+Verified Systems  
 
-**[Synthesis Group](synthesis_group)**
+**[Synthesis Group](synthesis_group)**  
